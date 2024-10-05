@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background: black;
+    overflow: hidden;
+    text-align: center;
+    
+}
+h1{
+    margin: 0;
+    background: white;
+    overflow: hidden;
+    text-align: center;
+    justify-self: center;
+    font-family: 'Times New Roman', Times, serif;
+}
